@@ -7,4 +7,14 @@
 2. Semantic-UI   
 3. MongoDB   
 
-# HOME
+# Website in Action:   
+## HOME   
+![HOME](https://github.com/vishishtpriyadarshi/bLook---A-Blog-App/blob/master/img/Home.png)   
+## NEW POST   
+![NEW POST](https://github.com/vishishtpriyadarshi/bLook---A-Blog-App/blob/master/img/New%20Post.png)   
+## POST
+![POST](https://github.com/vishishtpriyadarshi/bLook---A-Blog-App/blob/master/img/Post.png)   
+## EDIT POST   
+![EDIT](https://github.com/vishishtpriyadarshi/bLook---A-Blog-App/blob/master/img/Edit%20Post.png)   
+![EDITED](https://github.com/vishishtpriyadarshi/bLook---A-Blog-App/blob/master/img/Edited%20Post.png)   
+
